@@ -1,4 +1,4 @@
-name: CI
+name: RestiXD
 
 on: workflow_dispatch
 
